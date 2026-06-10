@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrandonXdev/BrandonXdev/main/banner.png.png" width="100%">
+</p>
+
 ##  👋 ¡Hola, soy Brandon!
 
 💻 Estudiante apasionado por la tecnología y el desarrollo de software.
