@@ -1,16 +1,16 @@
-## Hi there 👋
+##  👋 ¡Hola, soy Brandon!
 
-<!--
-**BrandonXdev/BrandonXdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante apasionado por la tecnología y el desarrollo de software.
 
-Here are some ideas to get you started:
+## 🚀 Actualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Aprendiendo Programación Orientada a Objetos
+- 💾 Estudiando MariaDB
+- 📚 Mejorando mi inglés
+- 🔧 Aprendiendo Git y GitHub
+
+## 🎯 Objetivos
+
+- Convertirme en desarrollador de software
+- Crear proyectos propios
+- Seguir aprendiendo nuevas tecnologías
